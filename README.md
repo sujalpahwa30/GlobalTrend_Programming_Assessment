@@ -1,0 +1,1 @@
+# GlobalTrend Programming Assessment
